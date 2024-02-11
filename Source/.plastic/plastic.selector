@@ -1,0 +1,4 @@
+repository "2D Demo@Jabaay@cloud"
+  path "/"
+    br "/main"
+    co "/main"
